@@ -1,0 +1,12 @@
+{
+  "name": "夜场台球",
+  "short_name": "台球",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#17191c",
+  "theme_color": "#17191c",
+  "icons": [{ "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
